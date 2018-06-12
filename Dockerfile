@@ -1,3 +1,3 @@
-FROM circleci/node:6.14.2
+FROM circleci/node:8.10-stretch
 
 RUN sudo npm i -g npm@latest
